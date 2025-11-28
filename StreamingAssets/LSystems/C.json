@@ -1,0 +1,13 @@
+{
+  "name": "Preset C",
+  "order": 2,
+  "axiom": "F",
+  "iterations": 4,
+  "angle": 22.5,
+  "rules": [
+    {
+      "predecessor": "F",
+      "successor": "FFr[rFlFlF]l[lFrFrF]"
+    }
+  ]
+}
